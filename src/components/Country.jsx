@@ -28,7 +28,9 @@ class Country extends Component {
                         medal={medal}
                         onIncrement={onIncrement}
                         onDecrement={onDecrement}/>)}
+                        <hr></hr>
             </div>
+            
         )
     }
 
